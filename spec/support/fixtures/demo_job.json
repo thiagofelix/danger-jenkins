@@ -1,0 +1,40 @@
+{
+    "_class": "org.jenkinsci.plugins.workflow.job.WorkflowRun",
+    "actions": [],
+    "artifacts": [
+        {
+            "displayPath": "report.html",
+            "fileName": "report.html",
+            "relativePath": "output/report.html"
+        },
+        {
+            "displayPath": "App.ipa",
+            "fileName": "App.ipa",
+            "relativePath": "output/App.ipa"
+        }
+    ],
+    "building": false,
+    "changeSets": [],
+    "description": null,
+    "displayName": "#2",
+    "duration": 130475,
+    "estimatedDuration": 132354,
+    "executor": null,
+    "fullDisplayName": "DemoJob #2",
+    "id": "2",
+    "keepLog": false,
+    "nextBuild": {
+        "number": 3,
+        "url": "http://jenkins.ci/job/DemoJob/3/"
+    },
+    "number": 2,
+    "previousBuild": {
+        "number": 1,
+        "url": "http://jenkins.ci/job/DemoJob/1/"
+    },
+    "queueId": 182,
+    "result": "SUCCESS",
+    "timestamp": 1474080704593,
+    "url": "http://jenkins.ci/job/DemoJob/2/"
+}
+
